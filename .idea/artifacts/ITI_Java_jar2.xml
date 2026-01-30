@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ITI Java:jar2">
+    <output-path>$PROJECT_DIR$/out</output-path>
+    <root id="archive" name="ITI Java.jar">
+      <element id="module-output" name="ITI Java" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,4 @@
+javac hellojava/HelloJava.java
+java hellojava.HelloJava "Hello from CMD"
+
+
